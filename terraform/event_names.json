@@ -1,0 +1,16 @@
+[
+  "AttachGroupPolicy",
+  "AttachRolePolicy",
+  "AttachUserPolicy",
+  "AuthorizeSecurityGroupIngress",
+  "ConsoleLogin",
+  "CreateAccessKey",
+  "DeleteBucketPublicAccessBlock",
+  "DeleteDetector",
+  "DeleteTrail",
+  "PutBucketPublicAccessBlock",
+  "PutEventSelectors",
+  "StopLogging",
+  "UpdateDetector",
+  "UpdateTrail"
+]
